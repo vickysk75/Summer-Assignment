@@ -22,5 +22,6 @@ public class Main {
         int result = sol.digitFrequencyScore(n);
 
         System.out.println("Digit Frequency Score = " + result);
+
     }
 }
