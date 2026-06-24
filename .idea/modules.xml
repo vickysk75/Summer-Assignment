@@ -2,18 +2,33 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day 2 work/1869. Longer Contiguous Segments of Ones than Zeros/1869. Longer Contiguous Segments of Ones than Zeros.iml" filepath="$PROJECT_DIR$/Day 2 work/1869. Longer Contiguous Segments of Ones than Zeros/1869. Longer Contiguous Segments of Ones than Zeros.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day 1 work/2144. Minimum Cost of Buying Candies With Discount/2144. Minimum Cost of Buying Candies With Discount.iml" filepath="$PROJECT_DIR$/Day 1 work/2144. Minimum Cost of Buying Candies With Discount/2144. Minimum Cost of Buying Candies With Discount.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day 1 work/3483. Unique 3-Digit Even Numbers/3483. Unique 3-Digit Even Numbers.iml" filepath="$PROJECT_DIR$/Day 1 work/3483. Unique 3-Digit Even Numbers/3483. Unique 3-Digit Even Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2/day 2/1745. Palindrome Partitioning IV/1745. Palindrome Partitioning IV.iml" filepath="$PROJECT_DIR$/week 2/day 2/1745. Palindrome Partitioning IV/1745. Palindrome Partitioning IV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Day 2 work/1869. Longer Contiguous Segments of Ones than Zeros/1869. Longer Contiguous Segments of Ones than Zeros.iml" filepath="$PROJECT_DIR$/week 1/Day 2 work/1869. Longer Contiguous Segments of Ones than Zeros/1869. Longer Contiguous Segments of Ones than Zeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Day 1 work/2144. Minimum Cost of Buying Candies With Discount/2144. Minimum Cost of Buying Candies With Discount.iml" filepath="$PROJECT_DIR$/week 1/Day 1 work/2144. Minimum Cost of Buying Candies With Discount/2144. Minimum Cost of Buying Candies With Discount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Day 1 work/3483. Unique 3-Digit Even Numbers/3483. Unique 3-Digit Even Numbers.iml" filepath="$PROJECT_DIR$/week 1/Day 1 work/3483. Unique 3-Digit Even Numbers/3483. Unique 3-Digit Even Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/week 2/day 1/3689. Maximum Total Subarray Value I/3689. Maximum Total Subarray Value I.iml" filepath="$PROJECT_DIR$/week 2/day 1/3689. Maximum Total Subarray Value I/3689. Maximum Total Subarray Value I.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day 1 work/3945. Digit Frequency Score/3945. Digit Frequency Score.iml" filepath="$PROJECT_DIR$/Day 1 work/3945. Digit Frequency Score/3945. Digit Frequency Score.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day 2 work/413. Arithmetic Slices/413. Arithmetic Slices.iml" filepath="$PROJECT_DIR$/Day 2 work/413. Arithmetic Slices/413. Arithmetic Slices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day 1 work/Day 1 work.iml" filepath="$PROJECT_DIR$/Day 1 work/Day 1 work.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day 2 work/Day 2 work.iml" filepath="$PROJECT_DIR$/Day 2 work/Day 2 work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Day 1 work/3945. Digit Frequency Score/3945. Digit Frequency Score.iml" filepath="$PROJECT_DIR$/week 1/Day 1 work/3945. Digit Frequency Score/3945. Digit Frequency Score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Day 2 work/413. Arithmetic Slices/413. Arithmetic Slices.iml" filepath="$PROJECT_DIR$/week 1/Day 2 work/413. Arithmetic Slices/413. Arithmetic Slices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/DAY 1/DAY 1.iml" filepath="$PROJECT_DIR$/week 3/DAY 1/DAY 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/DAY 2/DAY 2.iml" filepath="$PROJECT_DIR$/week 3/DAY 2/DAY 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Day 1 work/Day 1 work.iml" filepath="$PROJECT_DIR$/week 1/Day 1 work/Day 1 work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Day 2 work/Day 2 work.iml" filepath="$PROJECT_DIR$/week 1/Day 2 work/Day 2 work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/Day 3/Day 3.iml" filepath="$PROJECT_DIR$/week 3/Day 3/Day 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/week 2/day 1/Palindromic partitioning/Palindromic partitioning.iml" filepath="$PROJECT_DIR$/week 2/day 1/Palindromic partitioning/Palindromic partitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/DAY 1/QUESTION 1/QUESTION 1.iml" filepath="$PROJECT_DIR$/week 3/DAY 1/QUESTION 1/QUESTION 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/DAY 1/QUESTION 2/QUESTION 2.iml" filepath="$PROJECT_DIR$/week 3/DAY 1/QUESTION 2/QUESTION 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/DAY 1/QUESTION 3/QUESTION 3.iml" filepath="$PROJECT_DIR$/week 3/DAY 1/QUESTION 3/QUESTION 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/day 2/Question 1/Question 1.iml" filepath="$PROJECT_DIR$/week 3/day 2/Question 1/Question 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/day 2/Question 2/Question 2.iml" filepath="$PROJECT_DIR$/week 3/day 2/Question 2/Question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/day 2/Question 3/Question 3.iml" filepath="$PROJECT_DIR$/week 3/day 2/Question 3/Question 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Summer home work.iml" filepath="$PROJECT_DIR$/Summer home work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2/day 3/cake leveling/cake leveling.iml" filepath="$PROJECT_DIR$/week 2/day 3/cake leveling/cake leveling.iml" />
       <module fileurl="file://$PROJECT_DIR$/week 2/day 1/day 1.iml" filepath="$PROJECT_DIR$/week 2/day 1/day 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2/day 2/day 2.iml" filepath="$PROJECT_DIR$/week 2/day 2/day 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2/day 3/day 3.iml" filepath="$PROJECT_DIR$/week 2/day 3/day 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/week 1.iml" filepath="$PROJECT_DIR$/week 1/week 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week 2/week 2.iml" filepath="$PROJECT_DIR$/week 2/week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3/week 3.iml" filepath="$PROJECT_DIR$/week 3/week 3.iml" />
     </modules>
   </component>
 </project>
